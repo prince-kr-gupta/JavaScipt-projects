@@ -1,1 +1,1 @@
-The Repo contains a JavaScript Projects to clear the frontend fundamentals.
+The Repo contains a JavaScript Projects to clear and make the strong frontend fundamentals.
